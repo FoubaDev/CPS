@@ -1,0 +1,5 @@
+find . -type f -name "*.csv" -exec rm -f {} \;
+
+
+find . -type f -name "*.txt" -exec rm -f {} \;
+
